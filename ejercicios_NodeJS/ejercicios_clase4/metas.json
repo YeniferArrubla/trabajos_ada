@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Aprender Node.js",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Disfrutar cada día",
+    "estado": "completada"
+  },
+  {
+    "nombre": "Leer al menos una página del libro de turno",
+    "estado": "pendiente"
+  }
+]
