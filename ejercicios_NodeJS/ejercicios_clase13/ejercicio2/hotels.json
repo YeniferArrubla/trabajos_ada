@@ -1,0 +1,17 @@
+[
+{
+"id": "1",
+"name": "Hotel Central",
+"roomsAvailable": 5
+},
+{
+"id": "2",
+"name": "Ocean View",
+"roomsAvailable": 0
+},
+{
+"id": "3",
+"name": "Mountain Lodge",
+"roomsAvailable": 12
+}
+]
